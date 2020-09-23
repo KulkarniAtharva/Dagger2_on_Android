@@ -1,4 +1,7 @@
+![photo](https://user-images.githubusercontent.com/47221267/94055346-73857980-fdfa-11ea-8b30-74a0deab882c.png)
+
 # Dagger2 on Android
+<BR>
 
 This project contains Dagger2 examples with Retrofit2, MVVM architecture, Android Jetpack's Navigation component, & more. (Java)
 
