@@ -7,9 +7,11 @@ Here's what you will see in the project:
 
 - Dagger version 2.2+ (Focus on Dagger-Android)
 - Dagger-android basics:
-- DaggerApplication
-- DaggerAppCompatActivity
-- DaggerFragment
+   <ol type="i">
+   <li>DaggerApplication</li>
+   <li>DaggerAppCompatActivity</li>
+   <li>DaggerFragment</li>
+   </ol>
 - @Provides, @Binds, @BindsInstance explanation
 - Map Multibinding
 - Subcomponents
